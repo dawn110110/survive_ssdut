@@ -12,7 +12,7 @@ ssdut-guide 已含有新生入学时期须知的内容，接下来会补充在�
 ##生成&撰写
 
 1. 需要 Python 和，没有请装一个.
-2. 需要 Sphinx 和 sphinx_rtd_theme 主题. 请 `pip install -r requirements.txt` 来安装
+2. 需要 Sphinx 和 better 主题. 请 `pip install -r requirements.txt` 来安装
 3. 文档格式为 restructured text，请参考 http://sphinx-doc-zh.readthedocs.org/en/latest/rest.html
 4. 生成：`make html`
 5. 欢迎fork,欢迎发pull request
